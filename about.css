@@ -1,0 +1,32 @@
+.header2 {
+
+        background-color: rgb(255, 255, 255);
+        height: 50px;
+        color: rgba(255, 0, 0, 0.733);
+        width: 100%;
+        /* position: fixed; */
+        display: grid;
+        /* margin-top: -16px; */
+        /* border-bottom: black solid 1px; */
+}
+
+body {
+    /* background-color: blue; */
+}
+
+.p01 {
+    font-size: 3em;
+    font-family: monospace;
+    color: rgb(80, 80, 80);
+}
+.p02 {
+    font-size: large;
+    width: 80%;
+    font-family: monospace;
+    color: rgb(70, 70, 70);
+}
+
+.div {
+    margin-left: 10px;
+    margin-top: 10%;
+}
