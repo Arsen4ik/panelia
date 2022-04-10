@@ -230,17 +230,21 @@
 }
 .book0-2 {
     width: 100%;
+    display: flex;
+    justify-content: center;
+    /* margin-left: 5%; */
 }
 
 .book {
     display: flex;
     flex-direction: row;
+    justify-content: center;
     width: 100%;
     height: 100%;
     align-items: flex-end;
      /* background-color: rgb(112, 255, 29);  */
     flex-wrap: wrap;
-    margin-left: 7%;
+    /* margin-left: 7%; */
 } 
 
 .pp3 {
@@ -267,7 +271,7 @@
     display: flex;
 }
 .part1 {
-width: 50%;
+/* width: 20%; */
 margin-top: 5%;
 align-items: flex-start;
 display: flex;
@@ -430,6 +434,18 @@ margin-top: 2%;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.box5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 80%;
+    /* margin-left: 20%; */
+    /* background-color: wheat; */
+    /* margin-top: -3%; */
 }
 
 /* /// */
