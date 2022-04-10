@@ -1,6 +1,6 @@
 .header2 {
 
-        background-color: rgb(255, 255, 255);
+        background-color: #44474b;
         height: 50px;
         color: rgba(255, 0, 0, 0.733);
         width: 100%;
@@ -18,15 +18,29 @@ body {
     font-size: 3em;
     font-family: monospace;
     color: rgb(80, 80, 80);
+    width: 100%;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center; 
 }
 .p02 {
     font-size: large;
     width: 80%;
     font-family: monospace;
     color: rgb(70, 70, 70);
+    display: flex;
+    /* align-items: center; */
+    justify-content: center; 
+    margin-left: 10%;
 }
 
 .div {
-    margin-left: 10px;
+    /* margin-left: 1%; */
     margin-top: 10%;
 }
+/* 
+.div {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+} */
