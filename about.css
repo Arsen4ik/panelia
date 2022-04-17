@@ -1,18 +1,18 @@
-.header2 {
+/* .header2 {
 
         background-color: #44474b;
         height: 50px;
         color: rgba(255, 0, 0, 0.733);
         width: 100%;
-        /* position: fixed; */
+        /* position: fixed; 
         display: grid;
-        /* margin-top: -16px; */
-        /* border-bottom: black solid 1px; */
-}
+        /* margin-top: -16px; 
+        /* border-bottom: black solid 1px; 
+} 
 
 body {
-    /* background-color: blue; */
-}
+     background-color: blue; 
+} */
 
 .p01 {
     font-size: 3em;
@@ -28,7 +28,7 @@ body {
     width: 80%;
     font-family: monospace;
     color: rgb(70, 70, 70);
-    display: flex;
+    /* display: flex; */
     /* align-items: center; */
     justify-content: center; 
     margin-left: 10%;
@@ -37,6 +37,7 @@ body {
 .div {
     /* margin-left: 1%; */
     margin-top: 10%;
+    border-bottom: 20px solid white;
 }
 /* 
 .div {
